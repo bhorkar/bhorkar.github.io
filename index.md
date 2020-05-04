@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/ezgif.com-video-to-gif?raw=true"/>
+<img src="images/ezgif.com-video-to-gif.gif?raw=true"/>
 
 ---
 
