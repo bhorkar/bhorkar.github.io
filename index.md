@@ -17,6 +17,7 @@
 **Speech Animation:**
 
 [Animation](https://github.com/bhorkar/speech_animator)
+
 <img src="images/ezgif.com-video-to-gif.gif?raw=true"/>
 
 ---
