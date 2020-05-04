@@ -32,6 +32,7 @@
 **Diabetic Retinopathy**
 
 [Diabetic Retinopathy](https://github.com/bhorkar/Diabetic-Retinopathy)
+
 <img src="images/diabetic.gif?raw=true"/>
 
 ---
