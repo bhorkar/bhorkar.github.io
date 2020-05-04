@@ -26,14 +26,18 @@
 
 [Fashion cloth Recommondation](pdf/texture_b.pdf)
 <img src="images/texture.png?raw=true"/>
+
 ---
+
 **Diabetic Retinopathy**
 
-[Diabetic Retinopathy](https://github.com/bhorkar/Texture_similarity_deep_learning)
+[Diabetic Retinopathy](https://github.com/bhorkar/Diabetic-Retinopathy)
 <img src="images/diabetic.gif?raw=true"/>
 
 ---
+
 **Car surveillance** 
+
 ---
 
 
