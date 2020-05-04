@@ -12,10 +12,10 @@
 **Geolocation:**
 
 [Geolocation](https://github.com/bhorkar/geolocation_tensorflow_2.0)
-<img src="images/ezgif.com-video-to-gif?raw=true"/>
 
 ---
 **Speech Animation:**
+
 [Animation](https://github.com/bhorkar/speech_animator)
 <img src="images/ezgif.com-video-to-gif.gif?raw=true"/>
 
