@@ -4,7 +4,7 @@
 
 **A Hierarchical Deep Learning for Time series Prediction:** 
 
-[DeepAuto](/pdf/DeepAuto A Hierarchical Deep Learning globecom_v1.pdf)
+[DeepAuto](pdf/DeepAuto A Hierarchical Deep Learning globecom_v1.pdf)
 <img src="images/Picture1.png?raw=true"/>
 
 ---
@@ -20,8 +20,10 @@
 <img src="images/ezgif.com-video-to-gif.gif?raw=true"/>
 
 ---
+
 **Fashion cloth Recommondation:**
-[Fashion cloth Recommondation](/pdf/texture_b.pdf)
+
+[Fashion cloth Recommondation](pdf/texture_b.pdf)
 <img src="images/texture.png?raw=true"/>
 ---
 **Diabetic Retinopathy**
