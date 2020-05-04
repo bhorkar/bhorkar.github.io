@@ -2,30 +2,29 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[DeepAuto A Hierarchical Deep Learning for Time series Prediction](/pdf/DeepAuto A Hierarchical Deep Learning globecom_v1.pdf)
 <img src="images/Picture1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Geolocation](https://github.com/bhorkar/geolocation_tensorflow_2.0)
 <img src="images/ezgif.com-video-to-gif?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Speech Animation](https://github.com/bhorkar/speech_animator)
 <img src="images/ezgif.com-video-to-gif.gif?raw=true"/>
 
+
+[Fashion cloth Recommondation] (/pdf/texture_b.pdf)
+<img src="images/texture.png?raw=true"/>
+
+
+[Diabetic Retinopathy] (https://github.com/bhorkar/Texture_similarity_deep_learning)
+<img src="images/diabetic.png?raw=true"/>
+
+
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
@@ -33,3 +32,4 @@
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+
