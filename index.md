@@ -20,7 +20,7 @@
 
 
 [Diabetic Retinopathy] (https://github.com/bhorkar/Texture_similarity_deep_learning)
-<img src="images/diabetic.png?raw=true"/>
+<img src="images/diabetic.gfif?raw=true"/>
 
 
 ---
