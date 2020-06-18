@@ -23,7 +23,7 @@
 ---
 **Anamoly detection for network logs:**
 
-[Encapsulate] https://github.com/bhorkar/encapsulate
+[Encapsulate](https://github.com/bhorkar/encapsulate)
 
 ---
 **Fashion cloth Recommondation:**
