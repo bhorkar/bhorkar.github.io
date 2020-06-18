@@ -21,7 +21,11 @@
 <img src="images/ezgif.com-video-to-gif.gif?raw=true"/>
 
 ---
+**Anamoly detection for network logs:**
 
+[Encapsulate] https://github.com/bhorkar/encapsulate
+
+---
 **Fashion cloth Recommondation:**
 
 [Fashion cloth Recommondation](pdf/texture_b.pdf)
