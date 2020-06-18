@@ -22,6 +22,7 @@
 
 ---
 **Anamoly detection for network logs:**
+Anamoly detector to detect issues in real time wihin an opestack network. 
 
 [Encapsulate](https://github.com/bhorkar/encapsulate)
 
@@ -42,6 +43,7 @@
 ---
 
 **Car surveillance** 
+[Car](https://github.com/bhorkar/car-detection-for-survellance)
 
 ---
 
@@ -50,6 +52,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
 
