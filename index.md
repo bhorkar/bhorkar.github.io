@@ -12,7 +12,8 @@
 **Geolocation:**
 
 [Geolocation](https://github.com/bhorkar/geolocation_tensorflow_2.0)
-![image](https://github.com/bhorkar/bhorkar.github.io/blob/master/images/geolocation.png)
+<img src="images/geolocation.png?raw=true"/>
+
 ---
 **Speech Animation:**
 
